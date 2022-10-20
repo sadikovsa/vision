@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Mont';
+    src: url('Mont-SemiBold.eot');
+    src: url('Mont-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('Mont-SemiBold.woff2') format('woff2'),
+        url('Mont-SemiBold.woff') format('woff'),
+        url('Mont-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mont Demo';
+    src: url('MontDemo-Heavy.eot');
+    src: url('MontDemo-Heavy.eot?#iefix') format('embedded-opentype'),
+        url('MontDemo-Heavy.woff2') format('woff2'),
+        url('MontDemo-Heavy.woff') format('woff'),
+        url('MontDemo-Heavy.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
